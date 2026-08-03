@@ -1,8 +1,8 @@
-# TGNAV - Telegram频道群组导航
+# TGdianbao - Telegram频道群组导航
 
-TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。2025全网最佳Telegram导航网站，从超过20,000个频道、群组、机器人中精心筛选。Telegram导航，有TGNAV就够了！上TGNAV，发现更多优质Telegram频道、群组、机器人！
+TGdianbao - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。2025全网最佳Telegram导航网站，从超过20,000个频道、群组、机器人中精心筛选。Telegram导航，有TGdianbao就够了！上TGdianbao，发现更多优质Telegram频道、群组、机器人！
 
-TGNAV分为三个模块：频道导航、群组导航、机器人导航，分别对应Telegram Channel（频道）、Telegram Group（群组）、Telegram Robot（机器人）。
+TGdianbao分为三个模块：频道导航、群组导航、机器人导航，分别对应Telegram Channel（频道）、Telegram Group（群组）、Telegram Robot（机器人）。
 
 **Star本仓库支持一下吧！**
 
@@ -14,11 +14,11 @@ TGNAV分为三个模块：频道导航、群组导航、机器人导航，分别
 
 更多信息请查看： [关于网站](/about/)
 
-由TGNAV打造的高质量Telegram知识库： [TGwiki](https://github.com/tgnav/tgwiki/) | [传送门](/tgwiki/)
+由TGdianbao打造的高质量Telegram知识库： [TGwiki](https://github.com/TGdianbao/tgwiki/) | [传送门](/tgwiki/)
 
 ### 赞助我们
 
-TGNAV的维护需要一定的人力物力，在此过程中离不开大家的支持。
+TGdianbao的维护需要一定的人力物力，在此过程中离不开大家的支持。
 
 [点击此处](/donate/) 赞助我们。您的赞助是我们前进的动力！
 
