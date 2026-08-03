@@ -14,7 +14,6 @@ TGdianbao分为三个模块：频道导航、群组导航、机器人导航，�
 
 更多信息请查看： [关于网站](/about/)
 
-由TGdianbao打造的高质量Telegram知识库： [TGwiki](https://github.com/TGdianbao/tgwiki/) | [传送门](/tgwiki/)
 
 ### 赞助我们
 
