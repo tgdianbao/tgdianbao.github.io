@@ -14,9 +14,6 @@ TGdianbao - Telegram频道群组导航。收录Telegram上的优质频道、群�
 | [SOSO搜搜](https://t.me/beijingxiuchea) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | 搜索机器人   |
 | [极搜](https://t.me/jisou?start=a_6128203748)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
 
-**Star本仓库支持一下吧！**
-
-[点击此处](https://t.me/share?url=https%3A%2F%2Ftgdianbao.github.io%2F&text=%E6%88%91%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%AATelegram%E5%AF%BC%E8%88%AA%EF%BC%8C%E9%87%8C%E9%9D%A2%E6%94%B6%E5%BD%95%E4%BA%86%E8%B6%85%E5%A4%9A%E4%BC%98%E8%B4%A8%E9%A2%91%E9%81%93%E3%80%81%E7%BE%A4%E7%BB%84%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E5%BF%AB%E6%9D%A5%E7%9C%8B%E7%9C%8B%E5%90%A7%EF%BC%81) 将网站分享给你的TG好友/群组/频道
 
 ### 网站地址
 
