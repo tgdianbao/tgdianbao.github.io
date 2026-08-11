@@ -17,16 +17,16 @@ TGdianbao - Telegram频道群组导航。收录Telegram上的优质频道、群�
 
 ### 网站地址
 
-[频道导航](tgdianbao.github.io/) | [群组导航](tgdianbao.github.io/group/) | [机器人导航](tgdianbao.github.io/robot/)
+[频道导航](https://tgdianbao.github.io/) | [群组导航](https://tgdianbao.github.io/group/) | [机器人导航](https://tgdianbao.github.io/robot/)
 
-更多信息请查看： [关于网站](tgdianbao.github.io/about/)
+更多信息请查看： [关于网站](https://tgdianbao.github.io/about/)
 
 
 ### 赞助我们
 
 TGdianbao的维护需要一定的人力物力，在此过程中离不开大家的支持。
 
-[点击此处](tgdianbao.github.io/donate/) 赞助我们。您的赞助是我们前进的动力！
+[点击此处](https://tgdianbao.github.io/donate/) 赞助我们。您的赞助是我们前进的动力！
 
 
 ### 免责声明
