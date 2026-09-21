@@ -1,6 +1,6 @@
 # TGdianbao - Telegram频道群组导航
 
-TGdianbao - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。全网最佳Telegram导航网站，从超过20,000个频道、群组、机器人中精心筛选。Telegram导航，有TGdianbao就够了！上TGdianbao，发现更多优质Telegram频道、群组、机器人！
+TGdianbao - Telegram频道群组机器人导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。优质的Telegram导航网站，从超过20,000个频道、群组、机器人中精心筛选。Telegram导航，有TGdianbao就够了！上TGdianbao，发现更多优质Telegram频道、群组、机器人！
 
 
 | 名称 ：TG频道群组搜索机器人                                                        | 简介                                                         | 类型   |
